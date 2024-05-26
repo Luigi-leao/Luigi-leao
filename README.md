@@ -7,9 +7,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <!--SOBRE MIM!-->
   <div>
     <ul>
-      <li>Você deve entender que existem diversos caminhos para o topo da montanha.</li>
-      <li>Se preparando para trabalhar em full stack</li>
-      <li>Ansioso para me divertir com novos desafios</li>
+      <li>Existem diversos caminhos para o topo da montanha.</li>
+      <li>Ansioso para novos desafios</li>
     </ul>
   </div>
 
