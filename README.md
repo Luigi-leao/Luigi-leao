@@ -7,8 +7,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
 <!--SOBRE MIM!-->
   <div>
     <ul>
-      <li>Existem diversos caminhos para o topo da montanha.</li>
-      <li>Ansioso para novos desafios</li>
+      <li>Cursando etec ams-desenvolvimento de sistemas</li>
+      <li>Cursando etec alberto ferez informática para internet</li>
     </ul>
   </div>
 
