@@ -29,4 +29,5 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-
     <img align="center" alt="" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <div style="max-length='10px'; font-family='semibold'; color='orange' ">HTML</div>
   </div>
